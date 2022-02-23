@@ -2,57 +2,36 @@
 #include <stdlib.h>
 #include <string.h>
 
-void lerArquivos(char f[])
+int main()
 {
-    FILE *file = fopen(f, "r");
-    FILE *nota1 = fopen("Nota1.txt", "w+");
-    FILE *nota2 = fopen("Nota2.txt", "w+");
-    FILE *nota3 = fopen("Nota3.txt", "w+");
-    FILE *nota4 = fopen("Nota4.txt", "w+");
-    FILE *nota5 = fopen("Nota5.txt", "w+");
-
-    char avaliacao;
-    int *tamanhoStr;
-     
-    if (file)
-    {
-        printf("\n Passou por aqui\n");
-        while (!feof(file))
-        {
-            avaliacao = fgetc(file);
-            tamanhoStr = strlen(avaliacao) - 1;
-
-                if(avaliacao[tamanhoStr] == 1){
-                    int num1 = 1;
-                    fputc(num1, nota1);
-                }else if(avaliacao[tamanhoStr] == 2) {
-                    int num2 = 2;
-                    fputc(num2, nota2);
-                }else if(avaliacao[tamanhoStr] == 3) {
-                    int num3 = 3;
-                    fputc(num3, nota3);
-                }else if(avaliacao[tamanhoStr] == 4) {
-                    int num4 = 4;
-                    fputc(num4, nota4);
-                }else if(avaliacao[tamanhoStr] == 5) {
-                    int num5 = 5;
-                    fputc(num5, nota5);
-                }
-
-        }
-
-        fclose(file);
+    FILE *tripAd = fopen("tripadvisor_hotel.csv","r");
+    
+    if(tripAd == NULL){
+        printf("Erro ao abrir o Arquivo");
+        exit(0);
     }
-    else
-    {
-        printf("Erro ao abrir arquivo");
+
+    char review[8000];
+    int rating;
+    char line[22000];
+
+    char *sp;
+    char delimitado[] = "\t\"";
+    while(fgets(line,22000,tripAd) !=NULL){
+        //printf("\n%s", line);
+        sp = strtok(line,delimitado);
+        strcpy(review, sp);
+
+        sp = strtok(NULL,",");
+
+        rating = atoi(sp);
+  
+        printf("\n %s \n %d", review, rating);
+
     }
-}
 
 
-int main() {
-    char texto[] = ("tripadvisor_hotel.csv");
-    lerArquivos(texto);
+    fclose(tripAd);
 
     return 0;
 }
