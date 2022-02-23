@@ -16,7 +16,7 @@ int main()
         exit(0);
     }
 
-    char review[8000];
+    char review[80000];
     int rating;
     char line[22000];
 
