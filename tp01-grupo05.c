@@ -57,7 +57,7 @@ int main()
     fclose(nota5);
     fclose(tripAd);
 
-    char *vb;
+    char *vb[] = {""};
 
     if(notar1 == NULL){
         printf("Erro ao abrir o arquivo");
@@ -66,20 +66,20 @@ int main()
 
     while(fgets(line,22000,notar1) !=NULL){
         for(int i = 0; line[i]!='\0' && line[i]!='\n'; i++){
-        if(strlen(line[i]) < 4){
-        if(line[i] == '.' || line[i] == ',' || line[i] == '\\' || line[i] == '/' && line[i-1] != ',' && line[i-1] != ' ' && line[i-1] != '.')
-          fputs("\n", voc1);
-          if(line[i]!= ' ' && line[i]!= ',' && line[i] != '.' && line[i]!= '!' && line[i] != '?' && line[i] != '\\' && line[i] != '/')
-        {     
-        fputc(line[i], voc1);
+            if(line[i] == '.' || line[i] == ',' || line[i] == '\\' || line[i] == '/' && line[i-1] != ',' && line[i-1] != ' ' && line[i-1] != '.'){
+                fputs("\n", voc1);
+            }
 
+            if(line[i]!= ' ' && line[i]!= ',' && line[i] != '.' && line[i]!= '!' && line[i] != '?' && line[i] != '\\' && line[i] != '/'){     
+                    fputc(line[i], voc1);
+                }
+
+            if(line[i]== ' ' && line[i] != '.' && line[i] != ',' && line[i-1] != ',' && line[i-1] != ' ' && line[i-1] != '.'){
+                fputs("\n", voc1);
+            }
         }
-        if(line[i]== ' ' && line[i] != '.' && line[i] != ',' && line[i-1] != ',' && line[i-1] != ' ' && line[i-1] != '.')
-          fputs("\n", voc1);
-        }
-    
     }
-    }
+
 
     return 0;
 }
