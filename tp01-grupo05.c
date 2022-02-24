@@ -1,18 +1,64 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "separanotas.h"
 
 int main()
 {
-    char arqTrip[] = {"tripadvisor_hotel.csv"}, nota1[] = {"Nota1.txt"}, nota2[] = {"Nota2.txt"},  nota3[] = {"Nota3.txt"},  nota4[] = {"Nota4.txt"},  nota5[] = {"Nota5.txt"};
+    FILE *tripAd = fopen("tripadvisor_hotel.csv","r");
+    FILE *nota1 = fopen("Nota1.txt", "w+");
+    FILE *nota2 = fopen("Nota2.txt", "w+");
+    FILE *nota3 = fopen("Nota3.txt", "w+");
+    FILE *nota4 = fopen("Nota4.txt", "w+");
+    FILE *nota5 = fopen("Nota5.txt", "w+");
 
-    separaNota(arqTrip, nota1, nota2, nota3, nota4, nota5);
-
-    	FILE *notar1 = fopen("Nota1.txt", "r");
+    FILE *notar1 = fopen("Nota1.txt", "r");
     FILE *voc1 = fopen("Vocabulario1.txt", "w+");
-    char line[22000];
     
+    if(tripAd == NULL){
+        printf("Erro ao abrir o Arquivo");
+        exit(0);
+    }
+
+    char review[80000];
+    int rating;
+    char line[22000];
+
+    char *sp;
+    char delimitado[] = "\t\"";
+    while(fgets(line,22000,tripAd) !=NULL){
+        //printf("\n%s", line);
+        sp = strtok(line,delimitado);
+        strcpy(review, sp);
+
+        sp = strtok(NULL,",");
+
+        rating = atoi(sp);
+  
+        //printf("\n %s \n %d", review, rating);
+
+        if(rating == 1){
+            fprintf(nota1, "%s\n", review);
+            }else if(rating == 2) {
+                fprintf(nota2, "%s\n", review);
+                }else if(rating == 3) {
+                    fprintf(nota3, "%s\n", review);
+                    }else if(rating == 4) {
+                        fprintf(nota4, "%s\n", review);
+                        }else if(rating == 5) {
+                            fprintf(nota5, "%s\n", review);
+                }
+    }
+
+
+    fclose(nota1);
+    fclose(nota2);
+    fclose(nota3);
+    fclose(nota4);
+    fclose(nota5);
+    fclose(tripAd);
+
+    char *vb[] = {""};
+
     if(notar1 == NULL){
         printf("Erro ao abrir o arquivo");
         exit(0);
@@ -26,13 +72,16 @@ int main()
 
             if(line[i]!= ' ' && line[i]!= ',' && line[i] != '.' && line[i]!= '!' && line[i] != '?' && line[i] != '\\' && line[i] != '/'){     
                     fputc(line[i], voc1);
-            }
+                }
 
             if(line[i]== ' ' && line[i] != '.' && line[i] != ',' && line[i-1] != ',' && line[i-1] != ' ' && line[i-1] != '.'){
                 fputs("\n", voc1);
             }
         }
     }
+
+    
+
 
     return 0;
 }
