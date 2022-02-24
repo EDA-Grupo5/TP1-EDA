@@ -10,6 +10,9 @@ int main()
     FILE *nota3 = fopen("Nota3.txt", "w+");
     FILE *nota4 = fopen("Nota4.txt", "w+");
     FILE *nota5 = fopen("Nota5.txt", "w+");
+
+    FILE *notar1 = fopen("Nota1.txt", "r");
+    FILE *voc1 = fopen("Vocabulario1.txt", "w+");
     
     if(tripAd == NULL){
         printf("Erro ao abrir o Arquivo");
@@ -53,6 +56,30 @@ int main()
     fclose(nota4);
     fclose(nota5);
     fclose(tripAd);
+
+    char *vb;
+
+    if(notar1 == NULL){
+        printf("Erro ao abrir o arquivo");
+        exit(0);
+    }
+
+    while(fgets(line,22000,notar1) !=NULL){
+        for(int i = 0; line[i]!='\0' && line[i]!='\n'; i++){
+        if(strlen(line[i]) < 4){
+        if(line[i] == '.' || line[i] == ',' || line[i] == '\\' || line[i] == '/' && line[i-1] != ',' && line[i-1] != ' ' && line[i-1] != '.')
+          fputs("\n", voc1);
+          if(line[i]!= ' ' && line[i]!= ',' && line[i] != '.' && line[i]!= '!' && line[i] != '?' && line[i] != '\\' && line[i] != '/')
+        {     
+        fputc(line[i], voc1);
+
+        }
+        if(line[i]== ' ' && line[i] != '.' && line[i] != ',' && line[i-1] != ',' && line[i-1] != ' ' && line[i-1] != '.')
+          fputs("\n", voc1);
+        }
+    
+    }
+    }
 
     return 0;
 }
