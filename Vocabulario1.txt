@@ -44,7 +44,7 @@ open
 said
 pull
 bags
-didn__Ç_é_
+didnÇé
 offer
 help
 got
@@ -4777,7 +4777,7 @@ ordered
 ran
 rest
 stay
-didn__Ç_é_
+didnÇé
 better
 came
 room
@@ -4826,7 +4826,7 @@ smaller
 hotel
 room
 simply
-wasn__Ç_é_
+wasnÇé
 worth
 pushing
 crowd
@@ -5697,7 +5697,7 @@ hotel
 seen
 cosmetic
 upgrades
-it__Ç_é_
+itÇé
 pretty
 easy
 cosmetics
@@ -5719,7 +5719,7 @@ room
 proper
 okay
 bathroom
-hadn__Ç_é_
+hadnÇé
 enjoyed
 updates
 feel
@@ -5770,7 +5770,7 @@ looked
 just
 fine
 check
-don__Ç_é_
+donÇé
 waste
 money
 dump
@@ -5815,7 +5815,7 @@ looked
 just
 fine
 check
-don__Ç_é_
+donÇé
 waste
 money
 dump
@@ -6191,7 +6191,7 @@ months
 strongly
 recommend
 finding
-that__s
+thats
 trying
 24
 hours
@@ -7691,7 +7691,7 @@ pretty
 bad
 experience
 staying
-adam__Ç_é_
+adamÇé
 mark
 dallas
 week
@@ -7713,7 +7713,7 @@ food
 really
 expensive
 served
-don__Ç_é_
+donÇé
 view
 way
 better
@@ -7749,7 +7749,7 @@ guess
 room
 not
 got
-adams__Ç
+adamsÇ
 mark
 hotel
 6:30pm
@@ -7772,7 +7772,7 @@ place
 business
 folks
 obviously
-don__Ç_é_
+donÇé
 understand
 lifetime
 value
@@ -7789,7 +7789,7 @@ mentioning
 people
 going
 mention
-adam__Ç_é_
+adamÇé
 marks
 math
 going
@@ -12519,7 +12519,7 @@ nobu
 restaurant
 hotel
 forget
-don__Ç_é_
+donÇé
 eat
 service
 horrible
@@ -12554,10 +12554,10 @@ better
 japan
 street
 corner
-don__Ç_é_
+donÇé
 fooled
 eat
-denny__Ç_é_
+dennyÇé
 corner
 better
 service
@@ -12582,7 +12582,7 @@ east
 coast
 lanikai
 beach
-won__Ç_é_
+wonÇé
 regret
 lastly
 hotel
@@ -13799,7 +13799,7 @@ dirty
 dried
 spit
 inside
-door__Çî_f
+doorÇîf
 time
 dry
 time
@@ -13811,7 +13811,7 @@ room
 5
 no
 cold
-water__Ç
+waterÇ
 luke
 warm
 6
@@ -13847,7 +13847,7 @@ marks
 easily
 cleaned
 attended
-too__Ç
+tooÇ
 disgusting
 11
 complimentary
@@ -14557,7 +14557,7 @@ room
 tho
 attach
 esteemed
-biltmore__Ç
+biltmoreÇ
 tag
 supposed
 resort
@@ -14575,11 +14575,11 @@ sept
 company
 paying
 money
-wasn__Ç_é_
+wasnÇé
 coming
 pockets
 disgusted
-night__Ç_é_
+nightÇé
 hotel
 room
 large
@@ -14622,13 +14622,13 @@ mention
 watch
 scorpions
 desk
-wasn__Ç_é_
+wasnÇé
 fazed
 maint
 man
 came
 remove
-wasn__Ç_é_
+wasnÇé
 fazed
 husband
 called
@@ -14640,9 +14640,9 @@ sarcastic
 reply
 mark
 lambert
-desert__Ç
+desertÇ
 no
-we__Ç_éÈe
+weÇéÈe
 biltmore
 not
 camping
@@ -14653,10 +14653,10 @@ mark
 not
 customer
 facing
-job__Ç__e__Ç_é_
+jobÇeÇé
 way
 arrogant
-comp__Ç_éö
+compÇéö
 room
 moved
 cottage
@@ -14695,7 +14695,7 @@ covers
 hey
 no
 scorpions
-aren__Ç_é_
+arenÇé
 lucky
 ac
 barely
@@ -14721,7 +14721,7 @@ overpriced
 fridge
 loaded
 beverages
-booze__Ç__o
+boozeÇo
 room
 water
 bottle
@@ -14755,7 +14755,7 @@ cheese
 options
 limited
 know
-we__Ç_éÈe
+weÇéÈe
 resort
 feel
 like
@@ -14766,7 +14766,7 @@ vending
 machines
 soda
 machines
-heaven__Ç_é_
+heavenÇé
 sake
 place
 sooooo
@@ -14784,7 +14784,7 @@ open
 thank
 god
 valuables
-weren__Ç_é_
+werenÇé
 stolen
 went
 salon
@@ -14794,10 +14794,10 @@ pedicure
 nothing
 special
 nor
-you__Ç_éö
+youÇéö
 expect
 famous
-spa__Ç
+spaÇ
 average
 service
 local
@@ -14818,9 +14818,9 @@ people
 shell
 tons
 cash
-they__Ç_éÈe
+theyÇéÈe
 wrong
-we__Ç_ée
+weÇée
 nicest
 places
 abroad
@@ -14832,7 +14832,7 @@ experiences
 knowledge
 az
 biltmore
-loser__Ç__on__Ç_é_
+loserÇonÇé
 bother
 staying
 sure
@@ -15957,7 +15957,7 @@ itthe
 sofa
 bed
 room
-hadn__Ç_é_
+hadnÇé
 requested
 advance
 called
@@ -16005,7 +16005,7 @@ parking
 convenient
 u
 w
-stone__Ç_é_
+stoneÇé
 throw
 away
 sleep
@@ -16554,7 +16554,7 @@ impressed
 visited
 nob
 hill
-hotel__Ç_é_
+hotelÇé
 internet
 web-site
 initial
@@ -16690,7 +16690,7 @@ shown
 raid
 care
 ants
-don__Ç_é_
+donÇé
 know
 wife
 spending
@@ -16698,7 +16698,7 @@ considerable
 money
 romantic
 weekend
-don__Ç_é_
+donÇé
 want
 smell
 noxious
@@ -16727,7 +16727,7 @@ sunday
 afternoon
 tickets
 blanket
-babylon__Ç
+babylonÇ
 hours
 later
 forced
@@ -16780,7 +16780,7 @@ hotel
 try
 accommodations
 evening
-couldn__Ç_é_
+couldnÇé
 action
 signed
 aforementioned
@@ -16840,7 +16840,7 @@ wife
 walk
 past
 85
-room__Ç_é_
+roomÇé
 area
 taken
 bed
@@ -16849,7 +16849,7 @@ spacious
 addition
 room
 hot
-couldn__Ç_é_
+couldnÇé
 control
 n
 room
@@ -16924,7 +16924,7 @@ lowest
 price
 quoted
 second
-lady__Ç_é_
+ladyÇé
 statement
 received
 room
@@ -16973,7 +16973,7 @@ answer
 no
 room
 refrigerator
-wouldn__Ç_é_
+wouldnÇé
 reasonable
 expect
 acceptable
@@ -17021,7 +17021,7 @@ results
 conversation
 occurred
 member
-hotel__Ç_é_
+hotelÇé
 staff
 concerning
 dissatisfaction
@@ -17036,10 +17036,10 @@ hill
 hotel
 star
 hotel
-wouldn__Ç_é_
+wouldnÇé
 problems
 like
-i__Ç_ée
+iÇée
 described
 situation
 little
@@ -17047,7 +17047,7 @@ annoyed
 highlights
 significant
 deficiencies
-organization__Ç_é_
+organizationÇé
 customer
 service
 practices
@@ -17067,13 +17067,13 @@ displayed
 day
 subsequently
 members
-hotel__Ç_é_
+hotelÇé
 staff
 travel
 agent
 wrote
 letters
-hotel__Ç_é_
+hotelÇé
 manager
 regarding
 dissatifaction
@@ -18247,7 +18247,7 @@ trip
 new
 orleans
 weekend
-harrah__Ç_é_
+harrahÇé
 rewards
 card
 holder
@@ -18262,17 +18262,17 @@ deal
 doubletree
 right
 street
-harrah__Ç_é_
+harrahÇé
 honeymoon
 just
 got
 married
-we__Ç_éÈe
+weÇéÈe
 not
 taking
 real
 honeymoon
-harrah__Ç_é_
+harrahÇé
 reservation
 agent
 excited
@@ -18318,7 +18318,7 @@ sells
 especially
 busy
 weekends
-didn__Ç_é_
+didnÇé
 overreact
 saw
 bunch
@@ -18343,7 +18343,7 @@ check
 walked
 hotel
 people
-counter__Ç
+counterÇ
 wait
 turn
 agent
@@ -18353,9 +18353,9 @@ got
 checked
 just
 fine
-didn__Ç_é_
+didnÇé
 smile
-once__Ç
+onceÇ
 realized
 nobody
 counter
@@ -18366,9 +18366,9 @@ no
 new
 orleans
 nice
-stay__Ç
+stayÇ
 staying
-us__Ç
+usÇ
 no
 mention
 honeymoon
@@ -18376,7 +18376,7 @@ did
 famous
 doubletree
 cookies
-weren__Ç_é_
+werenÇé
 warm
 best
 description
@@ -18473,7 +18473,7 @@ hotel
 room
 looks
 eyes
-closed__Ç
+closedÇ
 br
 saturday
 morning
@@ -18549,7 +18549,7 @@ alarmingly
 drain
 open
 decided
-wasn__Ç_é_
+wasnÇé
 big
 deal
 pull
@@ -18567,7 +18567,7 @@ dialed
 phone
 told
 engineering
-minutes__Ç
+minutesÇ
 40
 minutes
 called
@@ -18609,10 +18609,10 @@ talk
 talk
 manager
 resulted
-lunch__Ç
+lunchÇ
 left
 messages
-didn__Ç_é_
+didnÇé
 happen
 did
 offering
@@ -18632,7 +18632,7 @@ eaten
 breakfast
 morning
 idea
-we__Ç_éö
+weÇéö
 store
 forthe
 good
@@ -18653,13 +18653,13 @@ no
 sorry
 problems
 experienced
-won__Ç_é_
+wonÇé
 charge
-room__Ç
+roomÇ
 best
 description
 use
-staff__Ç_é_
+staffÇé
 attitude
 indifferencei
 present
@@ -18668,7 +18668,7 @@ just
 facts
 story
 happened
-doesn__Ç_é_
+doesnÇé
 mean
 experience
 maybe
@@ -18689,9 +18689,9 @@ far
 good
 hotels
 new
-orleans__Ç
-won__Ç_é_
-i__Ç_ée
+orleansÇ
+wonÇé
+iÇée
 learned
 lesson
 check
@@ -20954,8 +20954,8 @@ employee
 desk
 simply
 said
-didn__Ç_é_
-me__Ç
+didnÇé
+meÇ
 phone
 does
 not
@@ -24525,7 +24525,7 @@ small
 mildew
 shower
 tv
-_jambox_
+jambox
 circa
 1995
 awful
@@ -26749,11 +26749,11 @@ mistreated
 ignored
 having
 beg
-service__Ç
+serviceÇ
 visit
-resort__Ç
-mind__Ç
-don__Ç_©_
+resortÇ
+mindÇ
+donÇ©
 think
 change
 rooms
@@ -26786,7 +26786,7 @@ second
 room
 dirty
 footprints
-floor__Ç
+floorÇ
 electricity
 bathroom
 not
@@ -26841,7 +26841,7 @@ supervisors
 employees
 not
 care
-don__Ç_é_
+donÇé
 waste
 time
 mexican
@@ -26872,7 +26872,7 @@ request
 time
 ask
 drink
-don__Ç_é_
+donÇé
 bother
 rum
 bad
@@ -28691,7 +28691,7 @@ homework
 book
 bavaro
 princess
-don__Ç_é_
+donÇé
 care
 cockroaches
 mosquitoes
@@ -28700,7 +28700,7 @@ suite
 bavaro
 princes
 destination
-don__Ç_é_
+donÇé
 care
 customer
 service
@@ -28737,7 +28737,7 @@ note
 beach
 fantastic
 food
-okay__Ç
+okayÇ
 
 stay
 away
@@ -29585,7 +29585,7 @@ returned
 punta
 cana
 disappointment
-can__Ç_é_
+canÇé
 speak
 spanish
 2
@@ -29653,7 +29653,7 @@ sick
 chills
 sweating
 profusely
-didn__Ç_é_
+didnÇé
 bottled
 water
 room
@@ -29670,7 +29670,7 @@ places
 place
 big
 running
-wouldn__Ç_é_
+wouldnÇé
 till
 filled
 sorry
@@ -29686,7 +29686,7 @@ worst
 vacation
 questions
 just
-ask__Ç
+askÇ
 br
 
 not
@@ -30750,7 +30750,7 @@ barrier
 interferes
 service
 avoid
-package__Ç
+packageÇ
 time
 share
 vacation
@@ -30857,7 +30857,7 @@ feel
 wife
 did
 n't
-don__Ç_é_
+donÇé
 want
 ready
 entire
@@ -31156,7 +31156,7 @@ slipped
 door
 telling
 meet
-guy__Ç
+guyÇ
 dest
 confirm
 departure
@@ -31180,7 +31180,7 @@ looking
 5th
 day
 desk
-didn__Ç_é_
+didnÇé
 know
 travel
 agencies
@@ -31208,7 +31208,7 @@ paid
 lot
 money
 vacation
-can__Ç_é_
+canÇé
 just
 slip
 piece
@@ -31220,7 +31220,7 @@ wanted
 time
 seek
 guy
-horriblei__Ç_é
+horribleiÇé
 sure
 know
 lengthy
@@ -31246,7 +31246,7 @@ try
 hooked
 90
 minutes
-won__Ç_é_
+wonÇé
 tell
 price
 end
@@ -31469,7 +31469,7 @@ right
 ignored
 trying
 advantage
-inclusive__Ç
+inclusiveÇ
 services
 simple
 requests
@@ -31532,7 +31532,7 @@ norm
 trip
 not
 nothing
-do__Ç
+doÇ
 life
 did
 think
@@ -32302,7 +32302,7 @@ n't
 travel
 agent
 immediately
-i__Ç_ée
+iÇée
 stayed
 dr
 resorts
@@ -32343,7 +32343,7 @@ stars
 visited
 all-inclusives
 caribbean
-i__Ç_ée
+iÇée
 faithful
 apple
 vacations
@@ -32357,7 +32357,7 @@ relatively
 flawless
 enjoyable
 usually
-isn__Ç_é_
+isnÇé
 perfect
 bad
 able
@@ -32399,7 +32399,7 @@ poor
 reviews
 picky
 patrons
-couldn__Ç_é_
+couldnÇé
 satisfied
 reread
 negative
@@ -32489,7 +32489,7 @@ time
 did
 rooms
 like
-weren__Ç_é_
+werenÇé
 placed
 reason
 furniture
@@ -32543,12 +32543,12 @@ busy
 answer
 say
 booked
-up__Ç
+upÇ
 later
 check
 cancellations
 book
-day__Ç
+dayÇ
 calling
 times
 unable
@@ -32600,19 +32600,19 @@ restaurants
 enjoyed
 time
 morning
-didn__Ç_é_
+didnÇé
 pans
 scrambled
 eggs
 pancakes
 waffles
-isn__Ç_é_
+isnÇé
 standard
 omelet
 line
 long
 morning
-wouldn__Ç_é_
+wouldnÇé
 want
 egg
 4
@@ -33237,7 +33237,7 @@ tried
 english
 map
 resort
-didn__Ç_é_
+didnÇé
 no
 way
 finding
@@ -33375,7 +33375,7 @@ no
 point
 did
 apologize
-problems__Ç
+problemsÇ
 weektime
 food
 absolutely
@@ -33444,7 +33444,7 @@ resort
 deserves
 commended
 mayra
-sterling__Ç
+sterlingÇ
 friday
 afternoon
 got
@@ -33464,7 +33464,7 @@ sleep
 friday
 night
 heat
-room__Ç
+roomÇ
 saturday
 afternoon
 returned
@@ -33481,7 +33481,7 @@ filthy
 not
 placed
 room
-sign__Ç
+signÇ
 outside
 left
 room
@@ -33547,7 +33547,7 @@ lunch
 order
 check
 make
-bus__Ç
+busÇ
 overall
 resort
 nice
@@ -34130,7 +34130,7 @@ say
 n't
 recommend
 agree
-refund__Ç
+refundÇ
 writer
 getting
 reservation
@@ -34144,7 +34144,7 @@ calling
 am
 suggested
 time
-couldn__Ç_é_
+couldnÇé
 good
 hour
 did
@@ -34154,7 +34154,7 @@ booked
 argued
 women
 vacation
-didn__Ç_é_
+didnÇé
 want
 beg
 dinner
@@ -34176,7 +34176,7 @@ tuesday
 night
 accompanied
 diarrhea
-i__Ç_é
+iÇé
 recovering
 week
 later
@@ -34201,7 +34201,7 @@ just
 long
 takes
 walk
-you__Ç_éÈe
+youÇéÈe
 lucky
 seat
 available
@@ -34236,7 +34236,7 @@ towel
 pool
 beach
 day
-wasn__Ç_é_
+wasnÇé
 fun
 walked
 towel
@@ -34274,16 +34274,16 @@ wish
 felt
 enjoy
 truly
-wouldn__Ç_é_
+wouldnÇé
 recommend
 place
 like
-refund__Ç
+refundÇ
 writer
 said
 glitters
-isn__Ç_é_
-gold__Ç
+isnÇé
+goldÇ
 
 wanted
 r
@@ -37941,14 +37941,14 @@ family
 came
 germany
 chile
-i__m
+im
 living
 right
 disaster
 room
 cracks
 wall
-hadn__t
+hadnt
 drier
 tv
 broken
@@ -38006,14 +38006,14 @@ kids
 notice
 reception
 2004
-haven__t
+havent
 recieved
 award
 good
 hotel
 5
 stars
-i__m
+im
 laughing
 crying
 
@@ -40457,7 +40457,7 @@ different
 people
 evening
 10
-minutes__Ç
+minutesÇ
 tell
 guests
 faced
@@ -40530,7 +40530,7 @@ disgusting
 definitely
 not
 improving
-anyone__Ç_é_
+anyoneÇé
 health
 no
 wonder
@@ -40591,7 +40591,7 @@ wait
 staff
 setting
 seated
-didn__Ç_é_
+didnÇé
 asked
 wanted
 drink
@@ -40631,7 +40631,7 @@ mountain
 onions
 explanation
 meal
-hadn__Ç_é_
+hadnÇé
 received
 drinks
 reminded
@@ -40685,7 +40685,7 @@ veggies
 little
 fishpasta
 restaurant
-didn__Ç_é_
+didnÇé
 anticipated
 lousy
 service
@@ -40714,7 +40714,7 @@ hotel
 apple
 vacations
 advertised
-kid__Ç_é_
+kidÇé
 club
 9:00
 5:00
@@ -40756,12 +40756,12 @@ swimming
 pool
 apparently
 girl
-didn__Ç_é_
+didnÇé
 understand
 supervise
 child
 informed
-kid__Ç_é_
+kidÇé
 club
 close
 lunch
@@ -40854,13 +40854,13 @@ guests
 tried
 speak
 himall
-can__Ç_é_
+canÇé
 blame
 staff
 marginal
 service
 management
-doesn__Ç_é_
+doesnÇé
 care
 far
 worst
@@ -42012,11 +42012,11 @@ stayed
 refused
 help
 say
-it__Ç_é_
+itÇé
 not
 book
-don__Ç_é_
-know__Ç
+donÇé
+knowÇ
 discussion
 tried
 attend
@@ -42416,7 +42416,7 @@ afeterwars
 returned
 holiday
 realized
-they__d
+theyd
 charged
 money
 sign
@@ -42448,7 +42448,7 @@ room
 oldish
 bathroom
 uncleaned
-don__t
+dont
 hotel
 
 place
@@ -44836,7 +44836,7 @@ breakfast
 listed
 12
 euros
-hotel__Ç_é_
+hotelÇé
 website
 charged
 18
@@ -44871,7 +44871,7 @@ items
 purchased
 makeup
 missing
-hotel__Ç_é_
+hotelÇé
 internet
 connection
 told
@@ -46131,7 +46131,7 @@ hated
 hotel
 time
 spent
-sleep__Ç´Ù_äî_ölthough
+sleepÇ´Ùäîölthough
 rarely
 possible
 noise
@@ -47900,11 +47900,11 @@ little
 good
 rating
 guests
-here__Ç_é_
+hereÇé
 remember
 depressing
 location
-didn__Ç_é_
+didnÇé
 feel
 safe
 night
@@ -47920,11 +47920,11 @@ staff
 unable
 speak
 english
-bush__Ç
+bushÇ
 business
 center
 simply
-doesn__Ç_é_
+doesnÇé
 make
 sense
 unless
@@ -49525,7 +49525,7 @@ lots
 good
 hotels
 florence
-don__Ç_é_
+donÇé
 stay
 paris
 hotel
@@ -49545,7 +49545,7 @@ room
 just
 large
 1
-child__Ç_é_
+childÇé
 size
 bed
 wooden
@@ -49601,7 +49601,7 @@ lots
 good
 hotels
 florence
-don__Ç_é_
+donÇé
 stay
 
 nasty
@@ -50281,11 +50281,11 @@ putrid
 musty
 stench
 room
-wasn__Ç_é_
+wasnÇé
 big
 fit
 bags
-i__Ç_ée
+iÇée
 traveled
 europe
 times
@@ -50311,7 +50311,7 @@ surprise
 lights
 room
 dark
-couldn__Ç_é_
+couldnÇé
 hand
 face
 think
@@ -50341,7 +50341,7 @@ pay
 money
 stay
 honeymoon
-suite__Ç
+suiteÇ
 tried
 travel
 agent
@@ -50362,7 +50362,7 @@ no
 way
 staying
 room
-couldn__Ç_é_
+couldnÇé
 make
 phone
 went
@@ -50371,7 +50371,7 @@ asked
 change
 rooms
 price
-couldn__Ç_é_
+couldnÇé
 arranged
 day
 asked
@@ -50461,7 +50461,7 @@ excellent
 staff
 lead
 owner
-contessa__Ç
+contessaÇ
 sultry
 not
 friendlythe
@@ -53789,7 +53789,7 @@ palace
 going
 greatas
 experience
-families__Ç
+familiesÇ
 expectation
 went
 drained
@@ -53876,7 +53876,7 @@ vomiting
 husband
 not
 bed
-colic__Ç_é_
+colicÇé
 dizzy
 spells
 change
@@ -57495,7 +57495,7 @@ expensive
 extra
 fees
 parking
-etc__Ç
+etcÇ
 people
 say
 reviews
@@ -57506,7 +57506,7 @@ stay
 overnight
 check
 hotel
-morning__Ç
+morningÇ
 thing
 morning
 checked
@@ -57568,7 +57568,7 @@ thing
 phone
 went
 answered
-calls__Ç
+callsÇ
 hotel
 hand
 said
@@ -57590,11 +57590,11 @@ kept
 saying
 like
 robot
-can__Ç_é_
+canÇé
 procedure
 talk
 valet
-parking__Ç
+parkingÇ
 hotel
 charges
 parking
@@ -57641,7 +57641,7 @@ desk
 think
 manager
 uprepared
-don__t
+dont
 stay
 price
 better
@@ -57680,7 +57680,7 @@ parked
 checked
 room
 throwback
-0__Ç_é_
+0Çé
 dated
 dÄcor
 sheets
@@ -57702,7 +57702,7 @@ worked
 intermittently
 movie
 service
-weren__Ç_é_
+werenÇé
 available
 electrical
 outlets
@@ -57729,15 +57729,15 @@ style
 rooms
 pool
 renovated
-didn__Ç_é_
+didnÇé
 time
 enjoy
 pool
 beach
 access
-nice__Ç
+niceÇ
 past
-80__Ç_é_
+80Çé
 appeal
 surroundings
 make
@@ -59029,7 +59029,7 @@ arrived
 5:00pm
 rooms
 not
-ready__Çî_he
+readyÇîhe
 hot
 apple
 cider
@@ -59038,7 +59038,7 @@ lobby
 apparently
 offered
 guest
-empty__Çî_uggage
+emptyÇîuggage
 arrived
 promptly
 noticed
@@ -59061,7 +59061,7 @@ asked
 did
 allow
 pets
-hotel__Çî_önd
+hotelÇîönd
 told
 yes
 explained
@@ -59086,14 +59086,14 @@ carpet
 cleaned
 ate
 dinner
-out__Çî__hat
-option__ÇîÀ
+outÇîhat
+optionÇîÀ
 needed
 drink
 hotel
 bar
 closed
-8:30pm__Çî_he
+8:30pmÇîhe
 day
 making
 dinner
@@ -59131,7 +59131,7 @@ elevator
 waits
 long
 cars
-arrival__Çî_e
+arrivalÇîe
 floor
 14
 pet
@@ -59141,7 +59141,7 @@ police
 sirens
 kept
 sleeping
-nights__Çî_hen
+nightsÇîhen
 time
 depart
 unable
@@ -59155,8 +59155,8 @@ printer
 did
 not
 work
-that__Ç_é_
-it__Çî_êive
+thatÇé
+itÇîêive
 learn
 hope
 helps
@@ -59379,7 +59379,7 @@ disgust
 future
 occupants
 dealing
-hotel__Ç_é_
+hotelÇé
 dreadful
 behaviourthe
 following
@@ -59582,7 +59582,7 @@ unpacking
 packing
 noon
 check
-hotel__Ç_é_
+hotelÇé
 convenience
 heard
 not
@@ -59803,7 +59803,7 @@ king
 size
 bed
 room
-size__Ç
+sizeÇ
 bed
 actually
 2
@@ -61243,7 +61243,7 @@ reeked
 mildew
 blanket
 yuk
-room__Ç_é_
+roomÇé
 humidity
 impossible
 good
@@ -61273,7 +61273,7 @@ u
 students
 spain
 took
-staff__Ç_é_
+staffÇé
 patience
 note
 group
@@ -61634,7 +61634,7 @@ took
 6
 hours
 additional
-bellmen__Ç_é_
+bellmenÇé
 fees
 luggage
 families
@@ -61658,13 +61658,13 @@ hotel
 morning
 new
 room
-found__Ç
+foundÇ
 ahem
 vibrating
 toy
 belonging
 bed
-i__Ç_éö
+iÇéö
 slept
 eww
 management
@@ -61732,12 +61732,12 @@ ick
 6
 toilets
 worked
-didn__Ç_é_
+didnÇé
 lift
 lid
 fix
 mechanism
-wasn__Ç_é_
+wasnÇé
 just
 toilet
 7
@@ -61755,9 +61755,9 @@ absolutely
 nothing
 8
 phone
-in-laws__Ç
+in-lawsÇ
 room
-didn__Ç_é_
+didnÇé
 ring
 use
 walkie-talkies
@@ -61780,7 +61780,7 @@ gogo
 representative
 named
 nolberto
-didn__Ç_é_
+didnÇé
 work
 hotel
 great
@@ -62959,7 +62959,7 @@ minute
 wait
 speak
 6
-children__Ç_é_
+childrenÇé
 wristbands
 came
 went
@@ -63136,7 +63136,7 @@ service
 guest
 services
 clearly
-don__Ç_é_
+donÇé
 know
 brochure
 misleading
@@ -63286,7 +63286,7 @@ pink
 flamingos
 wanting
 unwind
-it__Ç_é_
+itÇé
 perfect
 choice
 pools
@@ -63304,7 +63304,7 @@ not
 chance
 unwind
 pampered
-weren__Ç_é_
+werenÇé
 flamingos
 wasted
 days
@@ -66350,7 +66350,7 @@ ended
 hospital
 3
 long
-days__Çî__otal
+daysÇîotal
 nightmare
 food
 poisoningthe
@@ -72085,7 +72085,7 @@ new
 orleans
 great
 hotel
-awful__Ç
+awfulÇ
 arrived
 rooms
 reserved
@@ -72104,7 +72104,7 @@ line
 wanted
 checked
 second
-room__Ç
+roomÇ
 package
 gave
 50
@@ -72119,7 +72119,7 @@ paying
 times
 parking
 ramp
-street__Ç
+streetÇ
 rooms
 reserved
 smelled
@@ -72132,7 +72132,7 @@ floor
 smelled
 like
 gone
-bathroom__Ç
+bathroomÇ
 package
 offered
 free
@@ -72155,7 +72155,7 @@ advantage
 cruise
 handed
 sheet
-month__Ç_é_
+monthÇé
 package
 offering
 cruise
@@ -72170,9 +72170,9 @@ clean
 vacation
 new
 orleans
-you__Ç_éêl
+youÇéêl
 love
-don__Ç_é_
+donÇé
 stay
 royal
 saint
@@ -73312,7 +73312,7 @@ no
 not
 atm
 airport
-that__Ç_é_
+thatÇé
 n't
 anymore
 upset
@@ -76956,17 +76956,17 @@ room
 2*
 attention
 check
-don__t
+dont
 make
 calls
 hotel
-don__t
+dont
 drink
 bar
 things
 room
 account
-didn__t
+didnt
 used
 carefull
 enjoy
@@ -78150,7 +78150,7 @@ best
 hotel
 foor
 payed
-130___
+130
 excluding
 breakfast
 room
@@ -81178,11 +81178,11 @@ nothing
 asking
 wake-up
 aware
-won__Ç_é_
+wonÇé
 tv
 automatically
 turned
-on__Ç
+onÇ
 meaning
 happen
 fall
@@ -81190,7 +81190,7 @@ asleep
 tv
 nothing
 wake
-don__Ç_é_
+donÇé
 waste
 time
 arguing
@@ -85504,7 +85504,7 @@ built
 worried
 noises
 making
-didn__Ç_é_
+didnÇé
 confidencei
 not
 impressed
@@ -85717,7 +85717,7 @@ having
 party
 wifi
 wifi
-didn__Ç_é_
+didnÇé
 work
 hotel
 signal
@@ -85727,7 +85727,7 @@ reception
 person
 pressing
 buttons
-didn__Ç_é_
+didnÇé
 know
 walls
 appallingly
@@ -85737,7 +85737,7 @@ hear
 talking
 german
 whilst
-you__Ç_éÈe
+youÇéÈe
 having
 shower
 breakfast
@@ -85947,7 +85947,7 @@ laietana
 palace
 hotel
 200
-euro__Ç_é_
+euroÇé
 night
 better
 good
@@ -86008,7 +86008,7 @@ nondescript
 flat
 grayish
 spread
-didn__Ç_é_
+didnÇé
 measure
 hey
 low
@@ -86096,7 +86096,7 @@ management
 decision
 screaming
 desk
-won__Ç_é_
+wonÇé
 work
 just
 felt
@@ -86129,7 +86129,7 @@ did
 star
 safeguard
 rip
-offs__Ç
+offsÇ
 no
 luck
 decided
@@ -86188,7 +86188,7 @@ siesta
 granted
 breakfast
 ok
-laietana__Ç
+laietanaÇ
 road
 hotel
 resided
@@ -86216,9 +86216,9 @@ expensive
 good
 thing
 place
-it__Ç_é_
+itÇé
 location
-it__Ç_é_
+itÇé
 close
 decided
 turn
@@ -86253,12 +86253,12 @@ review
 10
 potential
 guests
-i__Ç_éêl
+iÇéêl
 laughing
 head
 birdie
 guess
-we__Ç_éÈe
+weÇéÈe
 mister
 hotel
 manager
@@ -88471,7 +88471,7 @@ constructionworkers
 started
 7am
 rooms
-weren__t
+werent
 websitepictures
 showed
 junkies
@@ -88483,7 +88483,7 @@ outside
 hostel
 door
 winston
-wasn__t
+wasnt
 cheap
 better
 accomodation
@@ -88652,7 +88652,7 @@ not
 attached
 toilet
 definitely
-ticket__Ç
+ticketÇ
 ride
 toilet
 leaked
@@ -90485,7 +90485,7 @@ tuck
 towels
 window
 night
-didn__Ç_é_
+didnÇé
 help
 much3the
 balcony
@@ -90617,7 +90617,7 @@ property
 believe
 receive
 refund
-night__Ç_é_
+nightÇé
 stayi
 wait
 reply
@@ -94047,7 +94047,7 @@ maid
 came
 add
 phone
-didn__Ç_é_
+didnÇé
 ring
 luckily
 awake
@@ -94080,7 +94080,7 @@ caribbean
 service
 not
 great
-didn__Ç_é_
+didnÇé
 expect
 treated
 like
@@ -94115,7 +94115,7 @@ cares
 problem
 prepare
 likely
-won__Ç_é_
+wonÇé
 resolved
 andor
 escalated
@@ -94127,9 +94127,9 @@ got
 room
 midnight
 nigh
-hasn__Ç_é_
+hasnÇé
 cleaned
-don__Ç_é_
+donÇé
 bother
 calling
 font
@@ -94158,7 +94158,7 @@ room
 30
 minutes
 later
-it__Ç_é_
+itÇé
 12:30
 no
 comes
@@ -94181,13 +94181,13 @@ towel
 trip
 takes
 20
-minutes__Ç
+minutesÇ
 2:30
 finally
 sleepsome
 rooms
 old
-that__Ç_é_
+thatÇé
 hotel
 try
 experience
@@ -94222,10 +94222,10 @@ smile
 say
 nothing
 no
-rooms__Ç
+roomsÇ
 course
 tell
-it__Ç_é_
+itÇé
 impossible
 room
 no
@@ -94236,8 +94236,8 @@ shower
 smile
 say
 no
-rooms__Ç
-you__Ç_éÈe
+roomsÇ
+youÇéÈe
 well-trained
 ask
 desk
@@ -94249,16 +94249,16 @@ manager
 2
 days
 no
-meantimeit__Ç_é_
+meantimeitÇé
 funny
 tell
 stories
-you__Ç_éÈe
+youÇéÈe
 just
 want
 comfortable
 relax
-it__Ç_é_
+itÇé
 really
 frustrating
 thatthese
@@ -94297,7 +94297,7 @@ towel
 pm
 nightly
 entertainment
-is__Ç
+isÇ
 bad
 frustrating
 nothing
@@ -94314,7 +94314,7 @@ hotel
 room
 taking
 shower
-don__Ç_é_
+donÇé
 stay
 floor
 robbed
@@ -94362,7 +94362,7 @@ daily
 desk
 hotel
 figure
-weren__Ç_é_
+werenÇé
 ones
 
 terrilbenon-existent
@@ -95534,7 +95534,7 @@ rest
 evening
 waiting
 pizza
-taco__Ç_é_
+tacoÇé
 located
 balcony
 italian
@@ -95661,7 +95661,7 @@ presented
 4
 rotten
 smelly
-bananas__Ç
+bananasÇ
 covered
 onion
 peal
@@ -95705,9 +95705,9 @@ building
 24
 far
 apart
-didn__Ç_é_
+didnÇé
 work
-didn__Ç_é_
+didnÇé
 trust
 children
 sleeping
@@ -95923,12 +95923,12 @@ maids
 rooms
 clean
 assumed
-vacant__Ç
+vacantÇ
 best
 checked
 friends
 hotel
-didn__Ç_é_
+didnÇé
 exist
 resort
 anymore
@@ -95937,7 +95937,7 @@ family
 home
 called
 speak
-couldn__Ç_é_
+couldnÇé
 themon
 friday
 10
@@ -95963,7 +95963,7 @@ airport
 earlier
 surprise
 did
-couldn__Ç_é_
+couldnÇé
 wait
 leave
 sick
@@ -98842,7 +98842,7 @@ offer
 rooms
 definitely
 minimal
-there__Ç_é_
+thereÇé
 bed
 placed
 conveniently
@@ -98858,7 +98858,7 @@ building
 exterior
 room
 serve
-room__Ç_é_
+roomÇé
 lighting
 sheer
 curtains
@@ -98892,7 +98892,7 @@ bed
 just
 mirror
 ceiling
-what__Ç_é_
+whatÇé
 missing
 food
 inedible
@@ -98922,7 +98922,7 @@ mall
 el
 yunque
 far
-you__Ç_éö
+youÇéö
 better
 chances
 getting
@@ -98952,12 +98952,12 @@ night
 party
 scene
 guests
-you__Ç_éÈe
+youÇéÈe
 looking
 relaxing
 pleasant
 holiday
-i__Ç_éö
+iÇéö
 recommend
 intercontinental
 el
@@ -98970,7 +98970,7 @@ hotel
 claims
 big
 offers
-little__Ç
+littleÇ
 
 not
 wedding
@@ -99236,7 +99236,7 @@ essentially
 destroying
 potential
 good
-night__Ç_é_
+nightÇé
 sleep
 chagrin
 unbearable
@@ -101991,7 +101991,7 @@ hotel
 located
 strange
 location
-it__Ç_é_
+itÇé
 not
 close
 hotel
@@ -102039,7 +102039,7 @@ place
 sit
 plus
 9am
-won__Ç_é_
+wonÇé
 stay
 hotel
 
@@ -103265,7 +103265,7 @@ inn
 properly
 sized
 rooms
-don__Ç_é_
+donÇé
 doubt
 luna
 simone
@@ -103301,7 +103301,7 @@ late
 long
 train
 ride
-it__Ç_é_
+itÇé
 small
 dark
 reception
@@ -103356,7 +103356,7 @@ point
 decent
 establishment
 cared
-it__Ç_é_
+itÇé
 customers
 reputation
 not
@@ -103387,7 +103387,7 @@ thing
 place
 got
 going
-it__Ç_é_
+itÇé
 slap
 bang
 middle
@@ -103400,7 +103400,7 @@ attractions
 area
 right
 doorstep
-that__Ç_é_
+thatÇé
 place
 staggered
 seemingly
@@ -103411,7 +103411,7 @@ got
 trip
 advisor
 advised
-it__Ç_é_
+itÇé
 no
 good
 
@@ -104576,7 +104576,7 @@ frecuenly
 worst
 experiencies
 hotelsfirst
-didn__t
+didnt
 booking
 check
 booked
@@ -104597,17 +104597,17 @@ argue
 reception
 manager
 said
-wasn__t
+wasnt
 check
 list
 finally
 course
-didn__t
+didnt
 recive
 apologise
 thatafter
 saw
-don__t
+dont
 usual
 baggage
 storage
@@ -104663,7 +104663,7 @@ course
 wrote
 complaint
 month
-don__t
+dont
 answer
 ibislast
 time
@@ -105599,7 +105599,7 @@ room
 floors
 supposedly
 refurbished
-rooms__Ç
+roomsÇ
 did
 not
 appear
@@ -105667,7 +105667,7 @@ hotels
 night
 manager
 just
-hadn__Ç_é_
+hadnÇé
 got
 clue
 sort
@@ -105791,17 +105791,17 @@ wonder
 hotel
 bad
 service
-don__Ç_é_
+donÇé
 care
 guests
-it__Ç_é_
+itÇé
 airport
 suppose
 attitude
 delayed
 flights
 able
-roomsdon__Ç_é_
+roomsdonÇé
 book
 hotel
 luxury
@@ -105814,7 +105814,7 @@ good
 hotels
 sydney
 choose
-don__Ç_é_
+donÇé
 choose
 stamford
 plaza
@@ -106114,7 +106114,7 @@ great
 business
 hotel
 honeymoon
-don__Ç_é_
+donÇé
 carelocation
 wise
 quality
@@ -107053,7 +107053,7 @@ hotel
 thieves
 remained
 premises
-husband__Ç_é_
+husbandÇé
 intervention
 prevented
 going
@@ -107126,7 +107126,7 @@ theft
 happened
 hotel
 lookout
-couldn__Ç_é_
+couldnÇé
 care
 room
 overlooked
@@ -109650,7 +109650,7 @@ read
 reviews
 listen
 advice
-begin__Ç
+beginÇ
 br
 reviews
 correct
@@ -109698,7 +109698,7 @@ acknowledge
 tried
 talk
 pretended
-couldn__Ç_é_
+couldnÇé
 speak
 english
 sudden
@@ -109744,12 +109744,12 @@ wall
 hit
 fiancÄ
 headfood
-ok__Çî_othing
+okÇîothing
 special
 bland
 knew
 going
-didn__Ç_é___Çî_éo
+didnÇéÇîéo
 not
 drink
 brush
@@ -109800,7 +109800,7 @@ hazard
 fumes
 bad
 better
-walkbathrooms__Çî_o
+walkbathroomsÇîo
 soap
 lot
 public
@@ -109812,7 +109812,7 @@ paper
 paper
 towels
 toilets
-didn__Ç_é_
+didnÇé
 flush
 sure
 imagine
@@ -109836,16 +109836,16 @@ takes
 smile
 attempt
 understand
-didn__Ç_é_
+didnÇé
 try
 needed
-couldn__Ç_é_
+couldnÇé
 speak
 talked
 good
 english
 moments
-didn__Ç_é_
+didnÇé
 ask
 tipped
 wellask
@@ -109889,7 +109889,7 @@ say
 just
 people
 picks
-can__Ç_é_
+canÇé
 stress
 far
 spent
@@ -110458,7 +110458,7 @@ instead
 took
 club
 apparently
-didn__Ç_é_
+didnÇé
 rooms
 available
 group
@@ -110537,7 +110537,7 @@ hotel
 taken
 level
 terrible
-didn__Ç_é_
+didnÇé
 consideration
 fact
 babythe
@@ -110555,13 +110555,13 @@ food
 order
 la
 carte
-didn__Ç_é_
+didnÇé
 point
 making
 reservations
 went
 restaurants
-didn__Ç_é_
+didnÇé
 wanted
 eat
 service
@@ -110570,16 +110570,16 @@ bad
 time
 went
 eat
-didn__Ç_é_
+didnÇé
 forks
 table
 asked
-didn__Ç_é_
+didnÇé
 thing
 happened
 asked
 drinks
-it__Ç_é_
+itÇé
 not
 language
 speak
@@ -110587,14 +110587,14 @@ spanish
 fluently
 spanish
 language
-it__Ç_é_
+itÇé
 not
 tipping
 tipped
 bad
 service
-that__Ç_é_
-it__Ç_é_
+thatÇé
+itÇé
 calledneither
 husband
 nor
@@ -110820,7 +110820,7 @@ just
 looking
 tip
 club
-go__Çî_o
+goÇîo
 tells
 resort
 nothing
@@ -110831,7 +110831,7 @@ main
 hotel
 nothing
 kids
-club__Çî_ögain
+clubÇîögain
 no
 surprise
 n't
@@ -110864,7 +110864,7 @@ maybe
 fruit
 juice
 beer
-wine__Ç
+wineÇ
 no
 nothing
 buy
@@ -111095,7 +111095,7 @@ affiliation
 companies
 let
 represent
-hotel__Çî__hat
+hotelÇîhat
 like
 sort
 affiliation
@@ -111139,7 +111139,7 @@ paper
 thursday
 april
 20
-6:30__Ç
+6:30Ç
 confirmation
 door
 reservations
@@ -111164,7 +111164,7 @@ hard
 fake
 told
 waiter
-didn__Ç_é_
+didnÇé
 want
 lobster
 just
@@ -111174,7 +111174,7 @@ ate
 dessert
 cart
 brought
-around__Ç´Ù_ä´Ù_äî__ere
+aroundÇ´Ùä´Ùäîere
 come
 lobsters
 table
@@ -111226,7 +111226,7 @@ resort
 not
 guests
 primarily
-french__Ç´Ù_ä
+frenchÇ´Ùä
 rudest
 lot
 humans
@@ -111259,7 +111259,7 @@ overnite
 got
 chair
 pool
-club__Çî__here
+clubÇîhere
 people
 laying
 grass
@@ -111300,7 +111300,7 @@ islands
 5
 days
 vacation
-don__Ç_é_
+donÇé
 want
 spend
 chasing
@@ -111322,7 +111322,7 @@ tours
 did
 n't
 pick
-time__Ç
+timeÇ
 hour
 late
 flight
@@ -117337,7 +117337,7 @@ elevator
 lobby
 heavy
 luggage
-it__Ç_é_
+itÇé
 chore
 getting
 staff
@@ -117704,7 +117704,7 @@ street
 hotel
 hotel
 considers
-off__Ç
+offÇ
 place
 husband
 driving
@@ -117737,7 +117737,7 @@ near
 hotel
 difficult
 specially
-we__Ç_éÈe
+weÇéÈe
 talking
 traffic-jammed
 gran
@@ -119012,7 +119012,7 @@ late
 night
 eatery
 lie
-it__Ç_é_
+itÇé
 open
 till
 1000
@@ -122502,7 +122502,7 @@ soft
 drinks5ear
 plugs
 dj
-peace__Ç
+peaceÇ
 make
 want
 swim
@@ -122526,7 +122526,7 @@ nails
 glue
 knob
 turn
-shower__Çî_t
+showerÇît
 kept
 falling
 off9a
@@ -122553,7 +122553,7 @@ learn
 pay
 room
 service
-inclusive__Ç
+inclusiveÇ
 resort13coping
 skills
 case
@@ -123348,7 +123348,7 @@ affiliated
 hotels
 worldwide
 enjoying
-hilton__Ç_é_
+hiltonÇé
 hospitality
 service
 hilton
@@ -123424,7 +123424,7 @@ san
 francisco
 paris
 deal
-this__Ç
+thisÇ
 br
 proceed
 downstairs
@@ -123439,10 +123439,10 @@ hhonors
 desk
 excuse
 not
-be__Ç
+beÇ
 apologizing
 said
-sure__Ç
+sureÇ
 showed
 picture
 just
@@ -123501,7 +123501,7 @@ passengers
 creating
 unbearable
 noises
-don__Ç_é_
+donÇé
 believe
 look
 pictures
@@ -123572,7 +123572,7 @@ american
 european
 staying
 hotel
-don__Ç_é_
+donÇé
 miss
 breakfast
 buffetspa
@@ -123615,7 +123615,7 @@ hallways
 foul
 odor
 coming
-hotel__Ç_é_
+hotelÇé
 plumbing
 sewer
 hallways
@@ -126118,7 +126118,7 @@ feet
 floors
 kitchenette
 room
-wouldn__Ç_é_
+wouldnÇé
 think
 using
 disappointed
@@ -126183,7 +126183,7 @@ deadbolt
 lock
 feel
 unsafemy
-brother__Ç_é_
+brotherÇé
 room
 like
 closet
@@ -127784,7 +127784,7 @@ needed
 hour
 work
 e-mails
-it__Ç_é_
+itÇé
 sgd28
 24
 hours
@@ -128849,7 +128849,7 @@ stay
 
 worst
 serviced
-star__Ç
+starÇ
 hotel
 hong
 kong
@@ -128859,7 +128859,7 @@ express
 disappointment
 disgracefulness
 so-called
-star__Ç
+starÇ
 hotel
 hong
 kong
@@ -128871,7 +128871,7 @@ contractor
 client
 company
 rented
-hotel__Ç_é_
+hotelÇé
 ballroom
 function
 not
@@ -128950,18 +128950,18 @@ thoughtful
 response
 finally
 understood
-didn__Ç_é_
+didnÇé
 really
 need
 staff
 finally
 said
-form__Ç
+formÇ
 colleague
 followed
 kind
 not
-business__Ç
+businessÇ
 expression
 face
 came
@@ -129043,7 +129043,7 @@ yelled
 security
 office
 let
-didn__Ç_é_
+didnÇé
 receive
 apologies
 incident
@@ -129075,7 +129075,7 @@ impolite
 inattentive
 services
 attitude
-hotel__Ç_é_
+hotelÇé
 staff
 3to
 understanding
@@ -131681,14 +131681,14 @@ book
 lured
 room
 rate
-golden__Ç
+goldenÇ
 br
 post
 late
 travel
 route
 looking
-deal__Çî__nd
+dealÇînd
 remembered
 bad
 surprise
@@ -132386,7 +132386,7 @@ sleeping
 hammock
 no
 heat
-don__Ç_é_
+donÇé
 winter
 ask
 portable
@@ -132428,14 +132428,14 @@ rooms
 available
 72
 hour
-time__Ç
+timeÇ
 cancel
 policy
 try
 enforce
 72
 hour
-date__Ç
+dateÇ
 96
 hours
 policy
@@ -132455,7 +132455,7 @@ twice
 rate
 reservedthey
 just
-don__Ç_é_
+donÇé
 understand
 hotel
 customer
@@ -132463,10 +132463,10 @@ service
 filled
 general
 manager
-form__Ç
+formÇ
 requested
 contacted
-don__Ç_é_
+donÇé
 think
 gm
 stay
@@ -135161,7 +135161,7 @@ terrible
 closet
 bathroom
 doors
-didn__Ç_é_
+didnÇé
 close
 mildew
 curtains
@@ -137719,7 +137719,7 @@ person
 spoke
 said
 not
-job__Ç
+jobÇ
 no
 came
 check
@@ -137863,9 +137863,9 @@ band
 dance
 guests
 nightclub
-something__Ç_é_
+somethingÇé
 got
-it__Ç_é_
+itÇé
 quality
 goes
 nightclub
@@ -137901,7 +137901,7 @@ resort
 probably
 not
 dr
-don__Ç_é_
+donÇé
 recommend
 gran
 bahia
@@ -138555,7 +138555,7 @@ no
 forced
 eat
 restaurants
-didn__Ç_é_
+didnÇé
 likespent
 day
 pool
@@ -138688,7 +138688,7 @@ apprx
 medical
 center
 told
-can__Ç_é_
+canÇé
 right
 come
 morning
@@ -138710,7 +138710,7 @@ service
 5
 min
 walk
-couldn__Ç_é_
+couldnÇé
 changed
 mind
 headed
@@ -138803,7 +138803,7 @@ stepped
 waited
 40
 min
-didn__Ç_é_
+didnÇé
 look
 told
 coming
@@ -138881,12 +138881,12 @@ documented
 happened
 property
 response
-don__Ç_é_
+donÇé
 know
 happened
-could__Ç_ée
+couldÇée
 happened
-didn__Ç_é_
+didnÇé
 pay
 treatment
 like
@@ -138895,13 +138895,13 @@ employees
 encountered
 evening
 told
-didn__Ç_é_
+didnÇé
 names
-couldn__Ç_é_
+couldnÇé
 asked
 manager
 told
-wasn__Ç_é_
+wasnÇé
 available
 stormed
 upseti
@@ -138987,7 +138987,7 @@ advance
 needed
 know
 told
-didn__Ç_é_
+didnÇé
 answer
 waited
 15min
@@ -139091,7 +139091,7 @@ michelle
 took
 long
 way
-wouldn__Ç_é_
+wouldnÇé
 walk
 tried
 catch
@@ -139109,7 +139109,7 @@ report
 rudely
 said
 office
-didn__Ç_é_
+didnÇé
 tell
 walked
 away
@@ -139124,9 +139124,9 @@ reported
 handed
 form
 titled
-form__Ç
+formÇ
 asked
-didn__Ç_é_
+didnÇé
 provide
 1st
 time
@@ -139143,7 +139143,7 @@ employeesmanagers
 contact
 accident
 said
-didn__Ç_é_
+didnÇé
 know
 friend
 filled
@@ -139166,10 +139166,10 @@ basically
 attitude
 hotel
 expect
-do__Ç
+doÇ
 did
 explain
-wasn__Ç_é_
+wasnÇé
 money
 simply
 asked
@@ -140788,7 +140788,7 @@ size
 match
 box
 sink
-doesn__t
+doesnt
 hot
 water
 tap
@@ -140800,7 +140800,7 @@ just
 shower
 curtain
 toilet
-doesn__t
+doesnt
 flush
 did
 fix
@@ -142190,7 +142190,7 @@ book
 3nights
 march
 15-18the
-hotel__s
+hotels
 location
 nasty
 surprise
@@ -142201,12 +142201,12 @@ area
 far
 downtown
 barcelona
-hotel__s
+hotels
 worst
 attribute
 terrible
 service
-reception__s
+receptions
 young
 staff
 spoke
@@ -142220,7 +142220,7 @@ hardly
 knew
 anyhting
 regarding
-city__s
+citys
 attractions
 bad
 attitudeto
@@ -145034,7 +145034,7 @@ really
 not
 impressed
 hotel
-it__Ç_é_
+itÇé
 ywca
 transformed
 so-called
@@ -145060,7 +145060,7 @@ yellow
 linoleum
 floor
 tiles
-you__Ç_éö
+youÇéö
 school
 classroom
 shower
@@ -145077,7 +145077,7 @@ apart
 floor
 cubicle
 minutes
-you__Ç_éö
+youÇéö
 shampoo
 bottle
 floating
@@ -145106,12 +145106,12 @@ sign
 bathroom
 telling
 room
-smoking__Ç
+smokingÇ
 charged
 huge
 sums
 money
-clean__Ç
+cleanÇ
 room
 room
 smelt
@@ -145143,7 +145143,7 @@ palaver
 room
 keycards
 day
-we__Ç_éö
+weÇéö
 spent
 hours
 walking
@@ -145162,7 +145162,7 @@ rest
 arrived
 room
 keycards
-wouldn__Ç_é_
+wouldnÇé
 work
 went
 way
@@ -145226,7 +145226,7 @@ hotel
 day
 viewing
 observatory
-weren__Ç_é_
+werenÇé
 paying
 cent
 treated
@@ -145240,7 +145240,7 @@ hotel
 aspect
 stay
 boston
-wasn__Ç_é_
+wasnÇé
 absolutely
 wonderful
 
@@ -146366,7 +146366,7 @@ hop
 comes
 room
 drop
-else__Ç_é_
+elseÇé
 bags
 fortunately
 dressed
@@ -149629,7 +149629,7 @@ resort
 hotel
 march
 29
-2007__Ç
+2007Ç
 april
 2
 2007
@@ -149687,7 +149687,7 @@ arrived
 hotel
 4:30
 pm
-didn__Ç_é_
+didnÇé
 room
 6
 pm
@@ -149695,7 +149695,7 @@ impression
 having
 deluxe
 package
-wouldn__Ç_é_
+wouldnÇé
 deal
 waiting
 private
@@ -149711,11 +149711,11 @@ package
 missing
 ofruit
 basketobeer
-liquoroslippers__Çî_he
+liquoroslippersÇîhe
 night
 returned
 dinner
-didn__Ç_é_
+didnÇé
 nightly
 turn
 service
@@ -149723,7 +149723,7 @@ hotel
 staff
 not
 accommodating
-didn__Ç_é_
+didnÇé
 care
 service
 disappointed
@@ -149752,7 +149752,7 @@ water
 sports
 sailing
 catamaran
-wouldn__Ç_é_
+wouldnÇé
 accommodate
 towels
 not
@@ -149769,12 +149769,12 @@ wait
 20
 minutes
 menu
-didn__Ç_é_
+didnÇé
 finally
 menus
 arrived
 staff
-didn__Ç_é_
+didnÇé
 bring
 food
 hour
@@ -149788,7 +149788,7 @@ waited
 20
 minutes
 left
-wasn__Ç_é_
+wasnÇé
 served
 24
 hour
@@ -149808,9 +149808,9 @@ room
 service
 concerned
 stated
-didn__Ç_é_
+didnÇé
 pizzas
-weren__Ç_é_
+werenÇé
 notified
 hungry
 especially
@@ -152637,7 +152637,7 @@ told
 ready
 3
 pm
-it__s
+its
 official
 check
 time
@@ -153186,7 +153186,7 @@ great
 feel
 like
 palace
-that__Ç_é_
+thatÇé
 ends
 rooms
 smelly
@@ -153219,7 +153219,7 @@ work
 extra
 hard
 clean
-weren__Ç_é_
+werenÇé
 close
 people
 wanted
@@ -154278,7 +154278,7 @@ no
 doorman
 no
 view
-can__Ç_é_
+canÇé
 close
 drapes
 privacy
@@ -154297,7 +154297,7 @@ offensive
 room
 small
 really
-don__Ç_é_
+donÇé
 option
 avoid
 looking
@@ -154308,7 +154308,7 @@ trip
 stayed
 millennium
 broadway
-it__Ç_é_
+itÇé
 just
 street
 mela
@@ -154997,7 +154997,7 @@ keeping
 mind
 negative
 reviews
-hotel__Ç_é_
+hotelÇé
 sketchy
 business
 took
@@ -155056,7 +155056,7 @@ day
 receive
 email
 friendly
-person__Ç
+personÇ
 informing
 room
 booked
@@ -155075,7 +155075,7 @@ booking
 seconds
 received
 offer
-person__Ç
+personÇ
 brought
 sketchy
 excuses
@@ -155087,7 +155087,7 @@ email
 credit-card
 transaction
 surely
-person__Ç
+personÇ
 trying
 happened
 credit-card
@@ -155682,12 +155682,12 @@ rated
 hotel
 favourably
 extremely
-unlucky__Ç
+unluckyÇ
 experience
 not
 quite
-positive__Ç
-facts__Ç
+positiveÇ
+factsÇ
 liked
 beach
 fantasticthe
@@ -155739,7 +155739,7 @@ like
 rooms
 hotel
 refurbished
-not__Ç
+notÇ
 rooms
 really
 nice
@@ -155769,7 +155769,7 @@ maid
 said
 washing
 bring
-them__Ç
+themÇ
 did
 restaurants
 booked
@@ -155804,7 +155804,7 @@ time
 greasy
 overcooked
 insect
-soup__Ç
+soupÇ
 things
 happen
 not
@@ -155815,7 +155815,7 @@ hotel
 great
 water
 park
-kids__Ç
+kidsÇ
 shame
 closed
 hotel
@@ -155823,7 +155823,7 @@ website
 did
 not
 say
-closed__Ç
+closedÇ
 child
 really
 upset
@@ -156683,14 +156683,14 @@ cleaned
 pretty
 frustrating
 read
-people__Ç_é_
+peopleÇé
 suggestions
 brought
 gifts
 housekeeping
 staff
 gesture
-didn__Ç_é_
+didnÇé
 mattersodas
 water
 restocked
@@ -156761,7 +156761,7 @@ words
 vocabulary
 nasty
 food
-selections__Çî__he
+selectionsÇîhe
 buffet
 basically
 disgustingthe
@@ -158979,11 +158979,11 @@ service
 visit
 regent
 say
-won__Ç_é_
+wonÇé
 againtrue
 rooms
 nice
-spacious__Ç
+spaciousÇ
 ac
 not
 working
@@ -159014,7 +159014,7 @@ speaking
 staff
 ignore
 not
-disturb__Ç
+disturbÇ
 lights
 not
 speak
@@ -159025,7 +159025,7 @@ seating
 bar
 restaurant
 ignore
-guests__Ç
+guestsÇ
 stay
 week
 suite

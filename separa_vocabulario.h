@@ -18,7 +18,8 @@ void separa_vocabulario(char arqLido[], char vocaArq[]){
 
     while(fgets(line,22000,notar) !=NULL){
         for(int i = 0; line[i]!='\n'; i++){
-            if(line[i]!= ' ' && line[i]!= ',' && line[i] != '.' && line[i]!= '!' && line[i] != '?' && line[i] != '\\' && line[i] != '/'){
+            
+            if(line[i]!= ' ' && line[i] != ',' && line[i] != '.' && line[i]!= '!' && line[i] != '?' && line[i] != '\\' && line[i] != '/' && line[i] != '_' ){
                 fputc(line[i], voc);
             }
 
