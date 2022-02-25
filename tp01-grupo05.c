@@ -26,21 +26,24 @@ int main()
     int i=0;
     int j=0;
     char palavra[] = {" "};
-    int indiceAnterior;
+    int indiceAnterior=0,lm=0;
 
     while(fgets(line,22000,vocabuRead)!=NULL){
         
-        if(line[i] == '\n' || line[i] == '\0'){
+        if(line[i] != '\n'){
+            int gh = i - indiceAnterior;
             indiceAnterior = i;
-    
             for(j; j < i; j++){
-                palavra[j] = line[j];
+                if(lm <= gh){
+                    palavra[lm] = line[j];
+                    lm++;
+                }
             }
 
             for(int g = 0; g < i; g++){
                 printf("%c", palavra[g]);
             }
-
+            lm=0;
             j = indiceAnterior;
         }
 
