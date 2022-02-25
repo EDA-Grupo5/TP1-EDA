@@ -21,34 +21,49 @@ int main()
     separa_vocabulario(nota4,vocabula4);
     separa_vocabulario(nota5,vocabula5);
 
-    FILE *vocabuRead = fopen(vocabula1, "r");
+    FILE *vocabuRead = fopen(vocabula1, "r+");
     char line[22000];
     int i=0;
     int j=0;
-    char palavra[] = {" "};
-    int indiceAnterior=0,lm=0;
+    char palavra[]={' '};
+    int indiceAnterior = 0;
 
-    while(fgets(line,22000,vocabuRead)!=NULL){
-        
+    while(fgets(line,sizeof(line)*2,vocabuRead) !=NULL){
+        //printf("\n%s", line);
+        // sp = strtok(line,delimitado);
+        // strcpy(palavra, sp);
+
         if(line[i] != '\n'){
-            int gh = i - indiceAnterior;
+            //printf("%s", line);
             indiceAnterior = i;
-            for(j; j < i; j++){
-                if(lm <= gh){
-                    palavra[lm] = line[j];
-                    lm++;
-                }
+    
+            for(j; j < indiceAnterior-1; j++){
+                palavra[j] = line[j];
             }
-
-            for(int g = 0; g < i; g++){
-                printf("%c", palavra[g]);
-            }
-            lm=0;
-            j = indiceAnterior;
+            j='\n';
+            printf("%s", palavra);
+            
+            
         }
-
         i++;
     }
+
+    // while(fgets(line,22000,vocabuRead)!=NULL){
+        
+    //     if(line[i] == '\n' || line[i] == '\0'){
+    //         indiceAnterior = i;
+    
+    //         for(j; j < i; j++){
+    //             palavra[j] = line[j];
+    //         }
+
+    //         printf("%s", palavra);
+
+    //         j = indiceAnterior;
+    //     }
+
+    //     i++;
+    // }
 
     return 0;
 
