@@ -20,6 +20,33 @@ int main()
     separa_vocabulario(nota3,vocabula3);
     separa_vocabulario(nota4,vocabula4);
     separa_vocabulario(nota5,vocabula5);
+
+    FILE *vocabuRead = fopen(vocabula1, "r");
+    char line[22000];
+    int i=0;
+    int j=0;
+    char palavra[] = {" "};
+    int indiceAnterior;
+
+    while(fgets(line,22000,vocabuRead)!=NULL){
+        
+        if(line[i] == '\n' || line[i] == '\0'){
+            indiceAnterior = i;
+    
+            for(j; j < i; j++){
+                palavra[j] = line[j];
+            }
+
+            for(int g = 0; g < i; g++){
+                printf("%c", palavra[g]);
+            }
+
+            j = indiceAnterior;
+        }
+
+        i++;
+    }
+
     return 0;
 
 }
