@@ -29,6 +29,8 @@ void separa_vocabulario(char arqLido[], char vocaArq[]){
         }
     }
 
+    fclose(voc);
+    fclose(notar);
 }
 
 #endif //SEPARA_VOCABULARIO_H

@@ -12,6 +12,17 @@ void encontrarIDF(char readVoca[]){
     int j=0;
     char palavra[]={' '};
     int indiceAnterior = 0;
+    int counta =0;
+    char *ch;
+    while(!feof(vocabuRead)){
+        ch = fgetc(vocabuRead);
+        if(ch == '\n'){
+            counta++;
+        }
+    }
+        printf("QTD de Palavras: %d \n", counta-1);
+
+    rewind(vocabuRead);
 
     while(fgets(line,sizeof(line)*3,vocabuRead) !=NULL){
 
@@ -29,7 +40,7 @@ void encontrarIDF(char readVoca[]){
         }
         i++;
     }
-
+        fclose(vocabuRead);
 }
 
 #endif
