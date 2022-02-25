@@ -1,6 +1,10 @@
 #ifndef SEPARA_VOCABULARIO_H
 #define SEPARA_VOCABULARIO_H
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 void separa_vocabulario(char arqLido[], char vocaArq[]){
     
     FILE *notar1 = fopen(arqLido, "r");
@@ -18,11 +22,11 @@ void separa_vocabulario(char arqLido[], char vocaArq[]){
                 fputs("\n", voc1);
             }
 
-            if(line[i]!= ' ' && line[i]!= ',' && line[i] != '.' && line[i]!= '!' && line[i] != '?' && line[i] != '\\' && line[i] != '/'){
+            if(line[i]!= ' ' && line[i]!= ',' && line[i] != '.' && line[i]!= '!' && line[i] != '?' && line[i] != '\\' && line[i] != '/' && line[i] != '-' ){
                 fputc(line[i], voc1);
             }   
 
-            if(line[i]== ' ' && line[i] != '.' && line[i] != ',' && line[i-1] != ',' && line[i-1] != ' ' && line[i-1] != '.'){
+            if(line[i]== ' ' && line[i] != '.' && line[i] != ',' && line[i-1] != ',' && line[i-1] != ' ' && line[i-1] != '.' ){
                 fputs("\n", voc1);
             }
         }

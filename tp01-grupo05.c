@@ -3,6 +3,7 @@
 #include <string.h>
 #include "separa_notas.h"
 #include "separa_vocabulario.h"
+#include "prepara_idf.h"
 
 int main()
 {
@@ -21,49 +22,11 @@ int main()
     separa_vocabulario(nota4,vocabula4);
     separa_vocabulario(nota5,vocabula5);
 
-    FILE *vocabuRead = fopen(vocabula1, "r+");
-    char line[22000];
-    int i=0;
-    int j=0;
-    char palavra[]={' '};
-    int indiceAnterior = 0;
-
-    while(fgets(line,sizeof(line)*2,vocabuRead) !=NULL){
-        //printf("\n%s", line);
-        // sp = strtok(line,delimitado);
-        // strcpy(palavra, sp);
-
-        if(line[i] != '\n'){
-            //printf("%s", line);
-            indiceAnterior = i;
-    
-            for(j; j < indiceAnterior-1; j++){
-                palavra[j] = line[j];
-            }
-            j='\n';
-            printf("%s", palavra);
-            
-            
-        }
-        i++;
-    }
-
-    // while(fgets(line,22000,vocabuRead)!=NULL){
-        
-    //     if(line[i] == '\n' || line[i] == '\0'){
-    //         indiceAnterior = i;
-    
-    //         for(j; j < i; j++){
-    //             palavra[j] = line[j];
-    //         }
-
-    //         printf("%s", palavra);
-
-    //         j = indiceAnterior;
-    //     }
-
-    //     i++;
-    // }
+    encontrarIDF(vocabula1);
+    encontrarIDF(vocabula2);
+    encontrarIDF(vocabula3);
+    encontrarIDF(vocabula4);
+    encontrarIDF(vocabula5);
 
     return 0;
 
