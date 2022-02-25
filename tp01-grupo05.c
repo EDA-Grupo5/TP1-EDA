@@ -26,26 +26,44 @@ int main()
     int i=0;
     int j=0;
     char palavra[] = {" "};
-    int indiceAnterior;
+    int indiceAnterior = 0;
 
-    while(fgets(line,22000,vocabuRead)!=NULL){
-        
-        if(line[i] == '\n' || line[i] == '\0'){
+    while(fgets(line,22000,vocabuRead) !=NULL){
+        //printf("\n%s", line);
+        // sp = strtok(line,delimitado);
+        // strcpy(palavra, sp);
+
+        if(line[i] != NULL && line[i] != '\n'){
+            //printf("%s", line);
             indiceAnterior = i;
     
-            for(j; j < i; j++){
-                palavra[j] = line[j];
+            for(j; j < indiceAnterior; j++){
+                strcpy(palavra[j],line[j]);
             }
 
-            for(int g = 0; g < i; g++){
-                printf("%c", palavra[g]);
-            }
+            printf("%s", palavra);
 
             j = indiceAnterior;
         }
-
         i++;
     }
+
+    // while(fgets(line,22000,vocabuRead)!=NULL){
+        
+    //     if(line[i] == '\n' || line[i] == '\0'){
+    //         indiceAnterior = i;
+    
+    //         for(j; j < i; j++){
+    //             palavra[j] = line[j];
+    //         }
+
+    //         printf("%s", palavra);
+
+    //         j = indiceAnterior;
+    //     }
+
+    //     i++;
+    // }
 
     return 0;
 
