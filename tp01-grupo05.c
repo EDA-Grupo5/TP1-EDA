@@ -23,11 +23,11 @@ int main()
     separa_vocabulario(nota5,vocabula5);
 
     encontrarIDF(vocabula1);
-    encontrarIDF(vocabula2);
-    encontrarIDF(vocabula3);
-    encontrarIDF(vocabula4);
-    encontrarIDF(vocabula5);
-
+    //encontrarIDF(vocabula2);
+    //encontrarIDF(vocabula3);
+    //encontrarIDF(vocabula4);
+    //encontrarIDF(vocabula5);
+    
     return 0;
 
 }

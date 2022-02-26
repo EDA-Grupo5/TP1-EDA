@@ -5,58 +5,50 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 void encontrarIDF(char readVoca[]){
+
     FILE *vocabuRead = fopen(readVoca, "r");
-    char line[50000];
-    int i=0;
-    int j=0;
-    int l= 0;
-    char palavra[]={' '};
-    int indiceAnterior = 0;
-    int counta =0;
-    char *ch;
-    char contaVezesPalavra[] = {" "};
-
-    while(fgets(line,sizeof(line)*3,vocabuRead) !=NULL){
-
-        if(line[i] != '\n' || line[i] == '\n'  ){
-            //printf("%s", line);
-            indiceAnterior = i;
+    char ch;
+    int conta = 0;
+    int contaArq=0;
+    int i = 0;
+    char **contaCaracter;
     
-            for(j; j < indiceAnterior-1; j++){
-                palavra[j] = line[j];
-            }
-            j='\0';
-            printf("%s", palavra);
-            
+    while(!(feof(vocabuRead))){
+        ch = fgetc(vocabuRead);
+        if(ch){
+            contaArq++;
         }
-        i++;
     }
 
     rewind(vocabuRead);
+    
+    int passUmaVez = 0;
 
-    while(!feof(vocabuRead)){
+     while(!feof(vocabuRead)){
         ch = fgetc(vocabuRead);
-        if(ch == '\n'){
-            counta++;
 
+        if(passUmaVez == 0){
+            contaCaracter = (char**) malloc(contaArq * sizeof(char*));
         }
-
-        int countAnterior = 0 ;
-        countAnterior++;
+            
         if(ch == '\n'){
-            for(int pala = 0; ; pala++ ){
-
-            }
+            conta++;
+            contaCaracter[i] = (char*) malloc(contaArq * sizeof(char));
+            contaCaracter[conta][i] = ch; 
+            
+            i=0;
         }
-
+                contaCaracter[i] = (char*) malloc(contaArq * sizeof(char));
+                contaCaracter[conta][i] = ch;
+        i++;
     }
+    printf("QTD de Palavras: %d \n", conta-1);
 
-    char matriz[][]= {0,0};
+    free(contaCaracter);
+    fclose(vocabuRead);
 
-    printf("QTD de Palavras: %d \n", counta-1);
-
-        fclose(vocabuRead);
 }
 
 #endif
