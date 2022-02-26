@@ -43,6 +43,11 @@ int main()
                 break;
 
             case 3:
+                //encontrarIDF(vocabula1);
+                //encontrarIDF(vocabula2);
+                //encontrarIDF(vocabula3);
+                //encontrarIDF(vocabula4);
+                //encontrarIDF(vocabula5);
 
                 break;
 
