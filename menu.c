@@ -4,6 +4,8 @@
 #include "separa_notas.h"
 #include "separa_vocabulario.h"
 #include "prepara_idf.h"
+#include "tabela_tf_idf.h"
+#include "tf_idf.h"
 
 int main()
 {
