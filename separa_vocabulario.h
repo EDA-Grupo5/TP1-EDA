@@ -1,14 +1,17 @@
+//inicio da header
 #ifndef SEPARA_VOCABULARIO_H
 #define SEPARA_VOCABULARIO_H
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
+//declarações para a função que cria o vocabulario
 void separa_vocabulario(char arqLido[], char vocaArq[]){
     
+    //inicializa os arquivos exteriores
     FILE *notar = fopen(arqLido, "r");
     FILE *voc = fopen(vocaArq, "w+");
+    
     char line[22000];
 
     if(notar == NULL){

@@ -15,6 +15,7 @@ void encontrarIDF(char readVoca[]){
     int i = 0;
     char **contaCaracter;
     
+    //conta a quantidade de caracteres no arquivo
     while(!(feof(vocabuRead))){
         ch = fgetc(vocabuRead);
         if(ch){
@@ -22,10 +23,12 @@ void encontrarIDF(char readVoca[]){
         }
     }
 
+    //reinicia a leitura do arquivo
     rewind(vocabuRead);
     
     int passUmaVez = 0;
 
+    //condicional para fazer a alocação de memoria para passagem de vetor 
      while(!feof(vocabuRead)){
         ch = fgetc(vocabuRead);
 
@@ -46,8 +49,8 @@ void encontrarIDF(char readVoca[]){
     }
     printf("QTD de Palavras: %d \n", conta-1);
 
-    free(contaCaracter);
-    fclose(vocabuRead);
+    free(contaCaracter);//Desaloca memoria alocada
+    fclose(vocabuRead);//Fecha domcumento anteriormente aberto
 
 }
 
